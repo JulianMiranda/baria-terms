@@ -10,9 +10,9 @@ export const Terms = () => {
 			<p>
 				En el presente contrato se suscriben los términos y condiciones bajo los
 				cuales se regula la promoción y venta online de los bienes y servicios a
-				través de la app baria, el mismo está gestionado directamente por Pedro
-				Sánchez, compañía radicada legalmente en la República del Ecuador, en lo
-				adelante será La Empresa.
+				través de la app baria, el mismo está gestionado directamente por BARIA,
+				compañía radicada legalmente en la República del Ecuador, en lo adelante
+				será La Empresa.
 			</p>
 			<p>
 				El Usuario se denomina a toda persona mayor de edad, que este legalmente
@@ -41,7 +41,7 @@ export const Terms = () => {
 			<p>
 				El Usuario para cualquier comunicación con la empresa debe brindar el
 				número de la factura como identificación y/o el código de seguimiento,
-				debe ser por escrito al WhatsApp +593 96 291 4922, en el horario de
+				debe ser por escrito al WhatsApp +593 99 568 7985, en el horario de
 				trabajo de lunes a viernes de 8 am a 5 pm, horario de Ecuador.
 			</p>
 			<p>
@@ -88,7 +88,7 @@ export const Terms = () => {
 				El Usuario ante la inconformidad por faltante o cambio en el contenido y
 				peso recibido puede formular una reclamación en un término no mayor a 24
 				horas contadas a partir de recibida la encomienda por el destinatario,
-				debe hacer por escrito al WhatsApp +593 96 291 4922. Debe aportar las
+				debe hacer por escrito al WhatsApp +593 99 568 7985. Debe aportar las
 				pruebas siguientes:
 			</p>
 			<p>Copia de la orden de compra.</p>
